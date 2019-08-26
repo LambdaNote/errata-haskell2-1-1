@@ -18,4 +18,3 @@
 めんどうであれば、新規にissueを立ててもらってもかまいません。こちらで随時、各ページ用のissueとして編集のうえ、closeします。
 
 Reopenされる前の「コメントがついているissueの一覧」を確認したい場合のリンク→ https://github.com/LambdaNote/errata-haskell2-1-1/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed++comments%3A%3E0+
-
